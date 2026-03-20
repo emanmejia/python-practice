@@ -1,6 +1,6 @@
 # python_02.py
 
-for i in range(1, 6):
+for i in range(1, 60):
     print("i =", i)
 
 x = 114
